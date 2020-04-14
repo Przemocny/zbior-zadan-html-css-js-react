@@ -20,3 +20,8 @@
 Fanpage: https://www.facebook.com/localhost40310
 Stronka: https://academy.localhost-group.com/
 
+
+#### Do kupienia są zestawy zadań rekrutacyjnych:
+- 8 ambitnych zadań rekrutacyjnych z Reacta i Javascript (Junior/Mid) - https://www.facebook.com/commerce/products/2895612530553728/
+- 17 podstawowych zadań rekrutacyjnych z JS (frontend z reactem) - https://www.facebook.com/commerce/products/3107795815938931/
+
