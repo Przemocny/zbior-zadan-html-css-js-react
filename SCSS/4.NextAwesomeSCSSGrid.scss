@@ -1,0 +1,11 @@
+// Treść zadania #04 - NextAwesomeSCSSGrid
+// - Wykorzystaj SASS oraz flexa, aby zrobić sobie grida a'la Bootstrap 4.
+// - Grid ma być wg podejścia mobile first i ma mieć podział na 10 column - col-10 zajmuje 100% szerokości, col-1 zajmuje 10% szerokości.
+// - Do wygenerowania klas związanych z kolumnami oraz szerokością ekranu użyj pętli for.
+// - W klasach .flex-column i .flex-row domyślna pozycja elementów ma być na środku w pionie i w poziomie oraz domyślnie elementy nie mieszczące się w poprzednim wierszu mają przeskakiwać do następnych (wrap)
+// - Klasy, które musisz wygenerować:
+// - flex-column, flex-row
+// - flex-sm-column, flex-sm-row, flex-md-column, flex-md-row, flex-lg-column, flex-lg-row, flex-xl-column, flex-xl-row
+// - col-* (od col-1 do col-10)
+// - col-sm-*, col-md-*, col-lg-*, col-xl-*
+// - Po napisaniu kodu SASS wygeneruj plik CSS
