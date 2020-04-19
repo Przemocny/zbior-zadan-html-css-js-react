@@ -6,8 +6,8 @@
 
 ## Jako Akademia, która trenuje specjalistów frontend nasz główny cel to podniesienie poziomu znajomości JS oraz jego powszechne obycie poprzez zadania praktyczne
 
-#### Zadania są o różnym poziomie trudności:
-- Newbie - osoby, po kursach Udemy, Samuraja, Youtubowych lub innych
+#### Zadania są o różnym poziomie trudności dla programistów o różnym stopniu wtajemniczenia:
+- Newbie - osoby po kursach Udemy, Samuraja, Youtubowych lub innych
 - Junior - osoby ubiegające się o pierwsze stanowisko jako Frontend Developer
 - Mid - osoby pracujące już jako Frontend Developerzy, ale chcące podnieść swoje umiejętności
 
