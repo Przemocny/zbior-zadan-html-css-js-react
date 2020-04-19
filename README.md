@@ -3,6 +3,7 @@
 ### Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React 
 
 ## Na naszym wallu oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta.
+## Cały cykl zakończy się kiedy w zbiorze będzie 150 zadań - jest już 11 
 
 ## Jako Akademia, która trenuje specjalistów frontend nasz główny cel to podniesienie poziomu znajomości JS oraz jego powszechne obycie poprzez zadania praktyczne
 
@@ -12,11 +13,11 @@
 - Mid - osoby pracujące już jako Frontend Developerzy, ale chcące podnieść swoje umiejętności
 
 #### Zadania dzielą się na 5 sekcji:
-- CSS + HTML - zadania związane z wyglądem aplikacji
-- JS + HTML - zadania związane z działaniem aplikacji
-- JS - zadania związane z algorytmami, strukturami danych
-- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania
-- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod
+- CSS + HTML - zadania związane z wyglądem aplikacji - 2 zadania
+- JS + HTML - zadania związane z działaniem aplikacji - 2 zadania
+- JS - zadania związane z algorytmami, strukturami danych - 3 zadania
+- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 4 zadania
+- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - jeszcze 0 zadań
 
 #### Wyślij swoje zadania na nas fanpage, a Twoje zadanie zostanie sprawdzone oraz dostaniesz informację zwrotną od doświadczonego mentora-rekrutera, co mógłbyś zrobić lepiej, a co jest mądrze zrobione
 
