@@ -54,7 +54,6 @@ Możesz nam pomóc udostępniając posty lub możesz też kupić nasze 160 godzi
 
 - <b>gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
 - <b>ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React
-- strona: https://zadania-rekrutacyjne-javascript.localhost-group.com 
 
 
 Masz pytania? Szukasz motywacji?
