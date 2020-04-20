@@ -50,9 +50,14 @@ Fanpage: https://www.facebook.com/localhost40310
 Stronka: https://academy.localhost-group.com/
 
 <hr/>
-Możesz nam pomóc udostępniając posty lub możesz też kupić nasze 160 godzinne zbiory zadań treningowych, posiadamy 2 zestawy:
-- zestaw startowy - HTML, zaawansowany CSS i podstawowy Javascript
-- zestaw zaawansowany - Zaawansowany Javascript, SCSS i React
-- strona: https://zadania-rekrutacyjne-javascript.localhost-group.com
-Masz pytania? Napisz na fanpage!
+Możesz nam pomóc udostępniając posty lub możesz też kupić nasze 160 godzinne zbiory zadań treningowych, posiadamy już 2 zestawy:
+
+- <b>gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
+- <b>ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React
+- strona: https://zadania-rekrutacyjne-javascript.localhost-group.com 
+
+
+Masz pytania? Szukasz motywacji?
+Szukasz pomocy w rozwoju? 
+<b>Porozmawiajmy na fanpage :) </b>
 
