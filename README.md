@@ -16,10 +16,10 @@
 
 
 #### Zadania dzielą się na 5 sekcji:
-- CSS + HTML - zadania związane z wyglądem aplikacji - 2 zadania
-- JS + HTML - zadania związane z działaniem aplikacji - 2 zadania
+- CSS + HTML - zadania związane z wyglądem aplikacji - 4 zadania
+- JS + HTML - zadania związane z działaniem aplikacji - 3 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
-- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 4 zadania
+- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 5 zadań
 - TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - jeszcze 0 zadań
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
