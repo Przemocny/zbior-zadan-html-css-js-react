@@ -1,0 +1,19 @@
+/* 
+
+Jest to darmowe zadanie ze zbioru zadań frontendowych "HTML, zaawansowany CSS i początki JS"
+Napisz na chata fanpage, jeśli jesteś zainteresowany - https://www.facebook.com/localhost40310
+
+Zadanie:
+Stwórz .wall wg metodologii BEM z 3 modyfilatorami, aby utworzyć izometryczną kostkę:
+- widzisz tylko 3 ściany kostki pod kątami, które są wielokrotnością kąta 45 stopni
+- każda klasa będzie odpowiadającą modyfikacji ścianą izometrycznej kostki
+- każda ścianka ma być wielkości 250x250px oraz o tle zawierającym inny obrazek
+- wszystkie klasy .wall mają działać wewnątrz elementu o klasie .cube
+*/
+
+.cube{}
+.wall--top{}
+.wall--left{}
+.wall3--right{}
+
+/* google keywords: css transformation, css skew, position absolute */

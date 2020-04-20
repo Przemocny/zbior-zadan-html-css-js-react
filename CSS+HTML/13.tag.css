@@ -1,0 +1,14 @@
+/* 
+Stwórz klasę .tags, która: 
+- wyrównuje wszystkie elementy do prawej
+- jeśli elementów jest wiecęj niż pozwala szerokość, elementy mają sie wrapować
+- elementy w rzędach mają być pionowo wyśrodkowane
+
+
+Stwórz klasę .tag, która:
+- jest inline-block
+- wygląda jak tag - np w :before będzie mieć trójkąt tego samego koloru co tło
+- będzie mieć odstęp 10px od poprzedniego taga
+- przy onhover tag ma się obrócić o 180 stopni, zmieniać kolor tła na jaśniejszy o 10%
+- przy onhover tag ma NIE OBRACAĆ swojego tekstu razem z tłem, tylko go na chwilę schować, a potem pokazać jak w pełni tag się obróci
+*/
