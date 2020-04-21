@@ -36,6 +36,8 @@
 
 <hr/>
 
+![alt "Localhost Academy"](/LH-Academy.png)
+
 ## Podoba Ci się nasza inicjatywa? - zostaw nam gwiazdkę w repo!!! z góry dzięki!!!
 ## Dzięki gwiazdkom pomagasz nam dostarczyć darmową wiedzę do osób na początku swojej drogi w IT
 
@@ -52,11 +54,10 @@ Stronka: https://academy.localhost-group.com/
 <hr/>
 Możesz nam pomóc udostępniając posty lub możesz też kupić nasze 160 godzinne zbiory zadań treningowych, posiadamy już 2 zestawy:
 
-- <b>gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
-- <b>ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React
+- <b>gruntowny zestaw startowy</b> <small>100PLN</small> - HTML, zaawansowany CSS i podstawowy Javascript
+- <b>ambitny zestaw zaawansowany</b> <small>100PLN</small> - Zaawansowany Javascript, SCSS i React
 
 
-Masz pytania? Szukasz motywacji?
-Szukasz pomocy w rozwoju? 
+Masz pytania?
 <b>Porozmawiajmy na fanpage :) </b>
 
