@@ -36,28 +36,38 @@
 
 <hr/>
 
-![alt "Localhost Academy"](/LH-Academy.png)
+<img src="/LH-Academy.png" alt="Localhost Academy" width="200"/>
 
 ## Podoba Ci się nasza inicjatywa? - zostaw nam gwiazdkę w repo!!! z góry dzięki!!!
-## Dzięki gwiazdkom pomagasz nam dostarczyć darmową wiedzę do osób na początku swojej drogi w IT
+#### Dzięki gwiazdkom pomagasz nam dostarczyć darmową wiedzę do osób na początku swojej drogi w IT
 
 <hr/>
 
 ## Chciałbyś dostawać więcej zadań, a może szukasz mentora na stałe? Utknąłeś w swoim rozwoju i nie wiesz co? A może zaplątałeś się w gąszczu nowej wiedzy?
 
-
-## Pomożemy ;) 
 #### Skontaktuj się na:
 Fanpage: https://www.facebook.com/localhost40310
 Stronka: https://academy.localhost-group.com/
 
 <hr/>
-Możesz nam pomóc udostępniając posty lub możesz też kupić nasze 160 godzinne zbiory zadań treningowych, posiadamy już 2 zestawy:
+Możesz nam pomóc udostępniając posty lub kupując nasze zbiory zadań:
 
-- <b>gruntowny zestaw startowy</b> <small>100PLN</small> - HTML, zaawansowany CSS i podstawowy Javascript
-- <b>ambitny zestaw zaawansowany</b> <small>100PLN</small> - Zaawansowany Javascript, SCSS i React
+- <b>Gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
+- <b>Ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React
 
+Każdy zbiór to:
+- 160 godzin treningu praktycznego
+- Zadania z życia i pracy Frontend Developera wzięte
+- 10 pomysłów na projekty wzbogacające Twoje portfolio
 
+<hr/>
+
+Cena jednego zbioru: 100PLN
+Cena obu zbiorów: 130PLN
+
+Opcja dla pracowitych prymusów:
+<b>Zrób dobrze 5 naszych zadań z tego repo => masz gwarantowany rabat -30zł</b>
+<hr/>
 Masz pytania?
 <b>Porozmawiajmy na fanpage :) </b>
 
