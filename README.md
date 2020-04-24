@@ -1,4 +1,5 @@
 ## i Ty możesz zostać Pitagorasem Frontendu
+#### Inicjatywa darmowego dzielenia się wiedzą
 ![alt "i Ty możesz zostać Pitagorasem Frontendu"](/pitagoras.jpg)
 ### Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React 
 
@@ -25,7 +26,7 @@
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
 - INSPIRACJE DO PORTFOLIO - jeśli nie masz pomysłu na swoje portfolio, weź sobie projekt i staraj się zrealizowac - 1 projekt
 
-#### Wyślij swoje zadania na nas fanpage, a Twoje zadanie zostanie sprawdzone oraz dostaniesz informację zwrotną od doświadczonego mentora-rekrutera, co mógłbyś zrobić lepiej, a co jest mądrze zrobione
+#### Wyślij swoje zadania na fanpage, a Twoje zadanie zostanie sprawdzone oraz dostaniesz informację zwrotną od doświadczonego mentora-rekrutera, co mógłbyś zrobić lepiej, a co jest mądrze zrobione
 
 #### Punkty z trzema gwiazdkami *** są trudniejsze
 
@@ -38,8 +39,8 @@
 
 <img src="/LH-Academy.png" alt="Localhost Academy" width="200"/>
 
-## Podoba Ci się nasza inicjatywa? - zostaw nam gwiazdkę w repo!!! z góry dzięki!!!
-#### Dzięki gwiazdkom pomagasz nam dostarczyć darmową wiedzę do osób na początku swojej drogi w IT
+## Podoba Ci się inicjatywa? - zostaw gwiazdkę w repo!!! z góry dzięki!!!
+#### Dzięki gwiazdkom pomagasz dostarczyć darmową wiedzę do osób na początku swojej drogi w IT
 
 <hr/>
 
@@ -50,20 +51,22 @@ Fanpage: https://www.facebook.com/localhost40310
 Stronka: https://academy.localhost-group.com/
 
 <hr/>
-Możesz nam pomóc udostępniając posty lub kupując nasze zbiory zadań:
+Możesz łatwo pomóc udostępniając i lajkując posty lub kupując nasze zbiory zadań:
 
 - <b>Gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
-- <b>Ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React
+- <b>Ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React, Redux
 
 Każdy zbiór to:
-- 160 godzin treningu praktycznego
+- Dożywotnia subskrybcja na repozytorium z ogromną ilością zadań
+- Częste aktualizacje oparte o świeże materiały i standardy
 - Zadania z życia i pracy Frontend Developera wzięte
-- 10 pomysłów na projekty wzbogacające Twoje portfolio
+- Pomysły na projekty wzbogacające Twoje portfolio
+- Uporządkowane darmowe materiały do nauki
 
 <hr/>
 
+Cena obu zbiorów: 150PLN
 Cena jednego zbioru: 100PLN
-Cena obu zbiorów: 130PLN
 
 Opcja dla pracowitych prymusów:
 <b>Zrób dobrze 5 naszych zadań z tego repo => masz gwarantowany rabat -30zł</b>
