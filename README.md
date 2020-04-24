@@ -2,7 +2,7 @@
 ![alt "i Ty możesz zostać Pitagorasem Frontendu"](/pitagoras.jpg)
 ### Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React 
 
-# Zadań na 2020 - 15/150
+# Zadań na 2020 - 20/150
 
 ## Na naszym fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta.
 
@@ -16,11 +16,11 @@
 
 
 #### Zadania dzielą się na 5 sekcji:
-- CSS + HTML - zadania związane z wyglądem aplikacji - 4 zadania
-- JS + HTML - zadania związane z działaniem aplikacji - 3 zadania
+- CSS + HTML - zadania związane z wyglądem aplikacji - 5 zadania
+- JS + HTML - zadania związane z działaniem aplikacji - 4 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
-- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 5 zadań
-- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - jeszcze 0 zadań
+- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 7 zadań
+- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 1 zadanie
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
 - INSPIRACJE DO PORTFOLIO - jeśli nie masz pomysłu na swoje portfolio, weź sobie projekt i staraj się zrealizowac - 1 projekt
