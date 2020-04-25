@@ -13,7 +13,7 @@
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
 
-# Zadania są aktualne na 2020 i jest ich 20 na 150. 
+# Zadania są aktualne na 2020 i jest ich 21 na 150. 
 ##### Zrobienie ich wszystkich zajmie Ci ok 160h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
@@ -33,7 +33,7 @@
 
 ## ZADANIA
 #### Dzielą się na 5 sekcji
-- CSS + HTML - zadania związane z wyglądem aplikacji - 5 zadania
+- CSS + HTML - zadania związane z wyglądem aplikacji - 6 zadań
 - JS + HTML - zadania związane z działaniem aplikacji - 4 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
 - REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 7 zadań
