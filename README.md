@@ -1,19 +1,15 @@
-<div style="display:flex; align-items:center;">
-<div>
-
 ## i Ty możesz zostać Pitagorasem Frontendu
 #### Inicjatywa darmowego dzielenia się wiedzą
-</div>
 
 <img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="200"/>
-
-</div>
 
 ##### Repozytorium to:
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
 
-# Zadania są aktualne na 2020 i jest ich 21 na 150. 
+Stronka Inicjatywy darmowego dzielenia się wiedzą: https://academy.localhost-group.com/
+
+# Zadania są aktualne na 2020 i jest ich 22 na 150. 
 ##### Zrobienie ich wszystkich zajmie Ci ok 160h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
@@ -36,7 +32,7 @@
 - CSS + HTML - zadania związane z wyglądem aplikacji - 6 zadań
 - JS + HTML - zadania związane z działaniem aplikacji - 4 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
-- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 7 zadań
+- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 8 zadań
 - TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 1 zadanie
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
@@ -75,7 +71,8 @@
 
 #### Skontaktuj się na:
 Fanpage: https://www.facebook.com/localhost40310
-Stronka: https://academy.localhost-group.com/
+Stronka mojej akademii: https://academy.localhost-group.com/
+
 
 <hr/>
 Możesz łatwo pomóc udostępniając i lajkując posty, jeśli je zobaczysz lub kupując nasze zbiory zadań:
