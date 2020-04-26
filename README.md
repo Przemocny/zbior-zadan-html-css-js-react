@@ -7,7 +7,7 @@
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
 
-Stronka Inicjatywy darmowego dzielenia się wiedzą: https://academy.localhost-group.com/
+Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
 # Zadania są aktualne na 2020 i jest ich 22 na 150. 
 ##### Zrobienie ich wszystkich zajmie Ci ok 160h lub więcej jeśli musisz się czegoś douczyć
