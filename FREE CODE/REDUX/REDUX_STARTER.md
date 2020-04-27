@@ -10,4 +10,5 @@ pliki w podejściu bez hooksów:
 pliki w podejściu z hooksami:
 - WrapperApp - jak podpiąć reduxa do apki reacta
 - reduxCustomHooks - jak podpiąć dobrze akcje
+- store - jak stworzyć działający store reduxa
 - HooksConnectedComponent - jak podpiąc reduxa do konkretnego komponentu 
