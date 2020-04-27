@@ -1,6 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux'
-import { cartActions } from './store'
+import { customerActions } from './store'
 
 // komponent reacta nie podpięty
 const NotConnectedComponent = (props)=>{
@@ -23,7 +23,7 @@ const mapStateToProps = (mainStore) => {
 // poniższy zapis bierze wszystkie akcje z cartActions
 // i wrzuca je bezpośrednio do props
 
-const mapActionToDispatch = { ...cartActions }
+const mapActionToDispatch = { ...customerActions }
 
 
 // używamy HOCa connected łącząc reguły, które stworzyliśmy 

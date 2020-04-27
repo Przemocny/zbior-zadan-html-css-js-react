@@ -33,7 +33,7 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 - JS + HTML - zadania związane z działaniem aplikacji - 4 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
 - REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 8 zadań
-- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 1 zadanie
+- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 2 zadanie
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
 - INSPIRACJE DO PORTFOLIO - jeśli nie masz pomysłu na swoje portfolio, weź sobie projekt i staraj się zrealizowac - 1 projekt
@@ -43,8 +43,6 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 - Junior - osoby ubiegające się o pierwsze stanowisko jako Frontend Developer
 - Mid - osoby pracujące już jako Frontend Developerzy, ale chcące podnieść swoje umiejętności
 ##### jeśli dane zadanie jest dla Ciebie za trudne sprawdź kolejne, aż znajdziesz to, z którym dasz sobie radę
-
-
 
 #### Wyślij swoje zadania na fanpage, a Twoje zadanie zostanie sprawdzone oraz dostaniesz informację zwrotną od doświadczonego mentora-rekrutera, co mógłbyś zrobić lepiej, a co jest mądrze zrobione
 

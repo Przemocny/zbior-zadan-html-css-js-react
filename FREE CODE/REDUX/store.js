@@ -64,4 +64,6 @@ const store = configureStore({
 	},
 })
 
+console.log('Sprawdź co masz', customerActions, store.getState())
+
 export { customerActions, customerReducer, store }

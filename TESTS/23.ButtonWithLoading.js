@@ -32,3 +32,5 @@ const action = () => new Promise((resolve, reject)=>{
         }
     },2000)
 })
+
+
