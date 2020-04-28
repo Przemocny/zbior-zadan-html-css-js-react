@@ -1,7 +1,7 @@
 ## i Ty możesz zostać Pitagorasem Frontendu
 #### Inicjatywa darmowego dzielenia się wiedzą
 
-<img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="200"/>
+<img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="100px"/>
 
 ##### Repozytorium to:
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
@@ -15,7 +15,7 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
 
 <div style="display:flex; align-items:center;">
-<img src="/Przemocny.png" alt="" height="100"/> 
+<img src="/Przemocny.png" alt="" height="100px"/> 
 <div>
 
 ##### <i>Jako mentor, który trenuje specjalistów frontend mój główny cel to podniesienie poziomu znajomości Javascriptu oraz jego powszechnego obycia poprzez zadania praktyczne</i>
@@ -25,6 +25,10 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 
 ## DOCS
 #### Uporządkowane materiały do nauki
+- jeśli potrzebujesz abym coś dodał, napisz na fanpage, a dla dobra ogółu stanie się to kolejną wartością tego repozytorium
+
+## FREE CODE
+#### Uporządkowany kod gotowy do przeklejenia do siebie
 - jeśli potrzebujesz abym coś dodał, napisz na fanpage, a dla dobra ogółu stanie się to kolejną wartością tego repozytorium
 
 ## ZADANIA
@@ -71,13 +75,12 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 Fanpage: https://www.facebook.com/localhost40310
 Stronka mojej akademii: https://academy.localhost-group.com/
 
-
 <hr/>
 Możesz łatwo pomóc udostępniając i lajkując posty, jeśli je zobaczysz lub kupując nasze zbiory zadań:
 
 - <b>Gruntowny zestaw startowy</b> - HTML, zaawansowany CSS i podstawowy Javascript
 - <b>Ambitny zestaw zaawansowany</b> - Zaawansowany Javascript, SCSS i React, Redux
-- <b>Nieprzewidywalne i sprawiajace problemy testy</b> - Zaawansowany Javascript, React, Redux, Jest
+- <b>Nieprzewidywalne i sprawiajace problemy testy</b> - Zaawansowany Javascript, React, Redux, Jest, Enzyme
 
 Każdy zbiór to:
 - Dożywotnia subskrybcja na repozytorium z ogromną ilością zadań
