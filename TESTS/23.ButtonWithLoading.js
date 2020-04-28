@@ -18,6 +18,7 @@ const ButtonWithLoading = (
 // - na kliknięciu wykona się promise przekazaną w propsie action
 // - po wykonaniu się promisy poprawnie, text buttona zmienia się na "success"
 // - po wykonaniu się promisy z błędem, text buttona zmienia się na "error"
+// - po wykonaniu się promisy z dowolnym wynikiem jej zwrotka ląduje w propsie onClick
 // - ***kiedy button zostanie kliknięty nie będzie można w niego ponownie kliknąć w czasie ładowania
 
 // przykładowy action do tego zadania
