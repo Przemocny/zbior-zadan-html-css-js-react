@@ -13,8 +13,8 @@ const ButtonWithLoading = (
 // komponent ButtonWithLoading działa poprawnie jeśli:
 // - po wyrenderowaniu jest tagiem button
 // - to co trafia do children jest w tagu button
-// - jeśli nic nie ma w propsie children text buttona to "don't push my buttons"
-// - kiedy button zostanie kliknięty wyświetli w buttonie text "loading..." oraz 
+// - jeśli nic nie ma w propsie children to przed pierwszym kliknieciem text buttona to "don't push my buttons"
+// - kiedy button zostanie kliknięty text jest zastapiony przez "loading..."
 // - na kliknięciu wykona się promise przekazaną w propsie action
 // - po wykonaniu się promisy poprawnie, text buttona zmienia się na "success"
 // - po wykonaniu się promisy z błędem, text buttona zmienia się na "error"
@@ -24,8 +24,8 @@ const ButtonWithLoading = (
 // przykładowy action do tego zadania
 const action = () => new Promise((resolve, reject)=>{
     const timer = setTimeout(()=>{
-        cleanTimeout(timer)
-        if(Math.round() > 0.5){
+        clearTimeout(timer)
+        if(Math.random() > 0.5){
             resolve('success')
         }
         else{
