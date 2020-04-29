@@ -27,10 +27,13 @@ const ComponentForHooksTest = (testedHook) => ({
     partialState = { prop2: 'test2' },
     getHookData = () => false
 }) => {
+    // 1. odpalamy nasz hook
     const [data, setter] = testedHook(initialState)
     
     useEffect(()=>{
+        // 3. montujemy useEffect
         if(data !== initialState){
+            // 4. wyciągamy przez propsy aktualny wynik naszego stanu
             getHookData(data)
         }
     },[data])
@@ -38,6 +41,7 @@ const ComponentForHooksTest = (testedHook) => ({
 	return (
 		<button
 			onClick={() => {
+                // 2. montujemy setter z gotową zmianą na onClicku
                 setter(partialState)
 			}}
 		>
