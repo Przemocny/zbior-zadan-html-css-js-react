@@ -1,12 +1,12 @@
 ## i Ty możesz zostać Pitagorasem Frontendu
 #### Inicjatywa darmowego dzielenia się wiedzą
 
-<img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="100px"/>
+<img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="200px"/>
 
 ##### Repozytorium to:
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
-### III. Gotowy kod do implementacji bardziej zaawansowanych zagadnień
+### III. Gotowy kod do implementacji bardziej zaawansowanych zagadnień z JS i React
 
 Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
