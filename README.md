@@ -6,16 +6,17 @@
 ##### Repozytorium to:
 ### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
+### III. Gotowy kod do implementacji bardziej zaawansowanych zagadnień
 
 Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
-# Zadania są aktualne na 2020 i jest ich 23 na 150. 
-##### Zrobienie ich wszystkich zajmie Ci ok 160h lub więcej jeśli musisz się czegoś douczyć
+# Zadania są aktualne na 2020 i jest ich 26 na 150. 
+##### Zrobienie ich wszystkich zajmie Ci ok 250h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
 
 <div style="display:flex; align-items:center;">
-<img src="/Przemocny.png" alt="" height="100px"/> 
+<img src="/Przemocny.png" alt="" height="200px"/> 
 <div>
 
 ##### <i>Jako mentor, który trenuje specjalistów frontend mój główny cel to podniesienie poziomu znajomości Javascriptu oraz jego powszechnego obycia poprzez zadania praktyczne</i>
@@ -34,10 +35,10 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 ## ZADANIA
 #### Dzielą się na 5 sekcji
 - CSS + HTML - zadania związane z wyglądem aplikacji - 6 zadań
-- JS + HTML - zadania związane z działaniem aplikacji - 4 zadania
+- JS + HTML - zadania związane z działaniem aplikacji - 5 zadania
 - JS - zadania związane z algorytmami, strukturami danych - 3 zadania
 - REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 8 zadań
-- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 2 zadanie
+- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 4 zadanie
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
 - INSPIRACJE DO PORTFOLIO - jeśli nie masz pomysłu na swoje portfolio, weź sobie projekt i staraj się zrealizowac - 1 projekt
