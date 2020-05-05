@@ -10,7 +10,7 @@
 
 Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
-# Zadania są aktualne na 2020 i jest ich 26 na 150. 
+# Zadania są aktualne na 2020 i jest ich 30 na 150. 
 ##### Zrobienie ich wszystkich zajmie Ci ok 250h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
@@ -34,11 +34,11 @@ Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-cs
 
 ## ZADANIA
 #### Dzielą się na 5 sekcji
-- CSS + HTML - zadania związane z wyglądem aplikacji - 6 zadań
-- JS + HTML - zadania związane z działaniem aplikacji - 5 zadania
-- JS - zadania związane z algorytmami, strukturami danych - 3 zadania
-- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania - 8 zadań
-- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod - 4 zadanie
+- CSS + HTML - zadania związane z wyglądem aplikacji 
+- JS + HTML - zadania związane z działaniem aplikacji
+- JS - zadania związane z algorytmami, strukturami danych 
+- REACT - zadania z Reacta, głównie budowanie komponentów i ich działania 
+- TESTS - zadania, w których piszesz testy i ulepszasz istniejący kod
 
 #### Dla szukających pomysłu na portfolio dodaliśmy też sekcję:
 - INSPIRACJE DO PORTFOLIO - jeśli nie masz pomysłu na swoje portfolio, weź sobie projekt i staraj się zrealizowac - 1 projekt
