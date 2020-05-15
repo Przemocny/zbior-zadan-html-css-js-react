@@ -10,7 +10,7 @@
 
 Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
-# Zadania są aktualne na 2020 i jest ich 33 na 150. 
+# Zbiór zadań na 2020 ma już 36/150 zadań
 ##### Zrobienie ich wszystkich zajmie Ci ok 250h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
@@ -92,7 +92,8 @@ Każdy zbiór to:
 
 <hr/>
 
-Cena obu zbiorów: 150PLN
+Cena wszystkich zbiorów: 220PLN
+Cena dwóch zbiorów: 150PLN
 Cena jednego zbioru: 100PLN
 
 Opcja dla pracowitych prymusów:
