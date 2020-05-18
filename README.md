@@ -1,22 +1,22 @@
-## i Ty możesz zostać Pitagorasem Frontendu
+## i Ty możesz zostać Gladiatorem Javascriptu
 #### Inicjatywa darmowego dzielenia się wiedzą
 
-<img src="/pitagoras.jpg" alt="i Ty możesz zostać Pitagorasem Frontendu" height="200px"/>
+<img src="jsgladiator.png" alt="i Ty możesz zostać Gladiatorem Javascriptu" height="200px"/>
 
 ##### Repozytorium to:
-### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, React
+### I. Zbiór zadań różnego poziomu (Newbie/Junior/Mid) z HTML, CSS, JS, TS, React, Redux, Node, Testów
 ### II. Darmowe materiały do nauki z HTML, CSS, JS, React, pisania testów
 ### III. Gotowy kod do implementacji bardziej zaawansowanych zagadnień z JS i React
 
-Stronka Inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
+Robocza stronka inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
-# Zbiór zadań na 2020 ma już 36/150 zadań
+# Zbiór na 2020 ma już 40/150 zadań
 ##### Zrobienie ich wszystkich zajmie Ci ok 250h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriput i Reacta
 
 <div style="display:flex; align-items:center;">
-<img src="/Przemocny.png" alt="" height="200px"/> 
+<img src="/Przemocny.png" alt="" height="100px"/> 
 <div>
 
 ##### <i>Jako mentor, który trenuje specjalistów frontend mój główny cel to podniesienie poziomu znajomości Javascriptu oraz jego powszechnego obycia poprzez zadania praktyczne</i>
