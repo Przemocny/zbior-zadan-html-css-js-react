@@ -1,5 +1,5 @@
 
-// Stwórz high order function arraya .drop w TS
+// Stwórz high order function arraya .drop w JS
 // const arr = [0,1,2,'test',3,'7',11,'test']
 
 // która będzie mieć 3 działania:
