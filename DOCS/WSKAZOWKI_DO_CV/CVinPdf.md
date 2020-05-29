@@ -1,6 +1,4 @@
-Przy pomocy tej libki do generowania pdfów (lub podobnej):
-- https://react-pdf.org/
-Zakoduj i wygeneruj CV w formie ładnego .pdf w A4
+
 
 
 ## Twoje CV powinno miec:
