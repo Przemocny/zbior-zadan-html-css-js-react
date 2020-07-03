@@ -10,7 +10,7 @@
 
 Robocza stronka inicjatywy darmowego dzielenia się wiedzą: https://zbior-zadan-html-css-javascript-react.localhost-group.com/
 
-# Zbiór na 2020 ma już 67/75 zadań
+# Zbiór na 2020 ma już 70/75 zadań
 ##### Zrobienie ich wszystkich zajmie Ci ok 250h lub więcej jeśli musisz się czegoś douczyć
 
 ## Na fanpage oraz różnych grupach frontendowych w każdy wtorek i piątek znajdziesz nowe, ciekawe zadania z HTML, CSS, Javascriptu i Reacta
