@@ -42,19 +42,19 @@ const Provider = ({children, onLoad, onChange}) => {
     // return ...
 }
 
-const StateConsumer = ({children, state=['text']})=>{
-    // tutaj komponenty children dostają w propsach "state" ze store.stateKey
-    // jeśli stateKey jest pusty to zwraca cały state
+const useContextState = ({stateNames=['text']})=>{
+    // jeśli stateNames jest pusty to zwraca cały state
+    // jeśli stateNames nie jest pusty to zwraca podane w arrayu klucze i wartości w formie nowego obiektu
     // return ...
 }
 
-const ActionConsumer = ({children, actions=["changeText"]})=>{
-    // tutaj komponenty children dostają w propsach actions wskazane po nazwie w propie actions
+const useContextActions = ({actions=["changeText"]})=>{
     // jeśli actions jest pusty to zwraca wszystkie akcje
+    // jeśli actions nie jest pusty to zwraca akcje wskazane po nazwie w arryu actions
     // return ...
 }
 
-const Consumer = ({children, actions=["changeText"], state=['text']})=>{
-    // suma komponentów wyżej
+const useContextActionsAndStore = ({actions=["changeText"], stateNames=['text']})=>{
+    // suma logiki powyżej
     // return ...
 }
