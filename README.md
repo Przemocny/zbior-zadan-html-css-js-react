@@ -103,3 +103,4 @@ Opcja dla pracowitych prymusów:
 Masz pytania?
 <b>Porozmawiajmy na fanpage :) </b>
 
+Definately gonna like it.
