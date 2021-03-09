@@ -1,4 +1,4 @@
-<h2 align="center">useClickOutside hook</h2>
+<h2 align="center">AuthTokenReactRouter</h2>
 
 <br>
 

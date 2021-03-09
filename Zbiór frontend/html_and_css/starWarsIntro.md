@@ -1,4 +1,3 @@
-
 <h2 align="center">Star Wars Intro</h2>
 
 <br>
