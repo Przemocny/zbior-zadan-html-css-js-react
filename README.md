@@ -1,4 +1,28 @@
-## i Ty możesz zostać Gladiatorem Javascriptu
+# Intro do zbiorów
+<img src="jsgladiator.png" alt="i Ty możesz zostać Gladiatorem Javascriptu" align:center height="200px"/>
+
+## Jest to próbka zadań ze zbiorów zadań z serii "Gladiator Javascriptu"
+
+Każdy zbiór, zawiera w sobie jedno lub dwa zadania próbne, które prezentują styl zadań w zbiorach. Jest to tylko demonstracja, więc w zbiorze który przeglądasz znajdziesz jedynie przedsmak wyzwań jakie stawiają przed programistą moje zbiory. 
+
+### Wersja demonstracyjna zbiorów zadań z serii "Gladiator Javascriptu" 
+
+Pełna wersja zbioru, zawiera aż 118 zadań, podzielonych na specjalizacje i stopień zaawansowania. 
+
+#### Starałem się wszystkie zadania opisać w sposób łatwo zrozumiały, ale jeśli czegoś nie rozumiesz - <u>napisz wiadomość na fanpage</u>, a postaram się wyjaśnić
+Ale to, że coś nie jest zrozumiałe dla Ciebie, nie zawsze oznacza, że to jest źle napisane. Czasem to Ty czegoś nie wiesz i powinieneś się douczyć
+
+# Powodzenia :) 
+<img src="Przemocny.png" alt="" height="100px"/> 
+Przemocny
+
+Jeśli po skończeniu zadać, będziesz chciał dowiedzieć się jak Ci poszło i umówić się na omówienie z mentorem - <u>napisz wiadomość na fanpage</u>
+##### stronka Gladiatorów: https://gladiators-of-javascript.com/
+##### stronka Akademii: https://academy.localhost-group.com/
+##### fb: https://www.facebook.com/localhost40310
+##### email: contact@localhost-group.com
+
+<!-- ## i Ty możesz zostać Gladiatorem Javascriptu
 #### Inicjatywa darmowego dzielenia się wiedzą
 
 <img src="jsgladiator.png" alt="i Ty możesz zostać Gladiatorem Javascriptu" height="200px"/>
@@ -102,4 +126,4 @@ Opcja dla pracowitych prymusów:
 <hr/>
 Masz pytania?
 <b>Porozmawiajmy na fanpage :) </b>
-
+ -->
