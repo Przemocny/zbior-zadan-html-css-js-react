@@ -1,0 +1,24 @@
+// odtwórz działanie z gifa bazując na poniższej strukturze
+// animacja jest elementem dodatkowym, choć miło aby była
+
+.grid{
+    // kwadrat 5x5
+    &__cell{
+      
+    }
+
+    &__card{
+        &--flipped{}
+
+        &--small{
+            // kwadrat 1x1
+        }
+        &--medium{
+            // prostokąt 2x1
+        }
+        &--big{
+            // kwadrat 2x2
+        }
+    }
+   
+}
