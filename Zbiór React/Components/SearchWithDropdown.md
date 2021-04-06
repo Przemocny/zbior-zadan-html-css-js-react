@@ -1,3 +1,6 @@
+<h2 align="center">Przykładowe zadanie ze zbiorow Gladiatorów Javascriptu. Kup nasze zbiory już dziś!</h2>
+<h5 align="center">https://gladiators-of-javascript.com/#gladiators</h5>
+
 <h2 align="center">Search With Dropdown</h2>
 
 <br>
