@@ -1,5 +1,7 @@
-<h2 align="center">Opis zadania ArrayMethods </h2>
+<h2 align="center">Przykładowe zadanie ze zbiorow Gladiatorów Javascriptu. Kup nasze zbiory już dziś!</h2>
+<h5 align="center">https://gladiators-of-javascript.com/#gladiators</h5>
 
+<h2 align="center">Opis zadania ArrayMethods </h2>
 <br>
 
 ## Wymagana wiedza
